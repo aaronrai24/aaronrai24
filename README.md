@@ -1,27 +1,30 @@
 # Yo 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaronrai24)
-[![wakatime](https://wakatime.com/badge/user/018d39fc-3bad-476a-b33e-d4dbbecd746e.svg)](https://wakatime.com/@018d39fc-3bad-476a-b33e-d4dbbecd746e)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-blue)](https://aaronrai24.github.io/PersonalPortfolio/index.html)
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=aaronrai24">
+    <a href="https://wakatime.com/@018d39fc-3bad-476a-b33e-d4dbbecd746e">
+        <img src="https://wakatime.com/badge/user/018d39fc-3bad-476a-b33e-d4dbbecd746e.svg">
+    </a>
+    <a href="https://aaronrai24.github.io/PersonalPortfolio/index.html">
+        <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-blue">
+    </a>
+</p>
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Aaron Rai"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US"]
+    name = "Aaron Rai"
+    role = "Software Engineer"
+    language_spoken = ["en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-me = SoftwareEngineer()
-me.say_hi()
+if __name__ == "__main__":
+    me = SoftwareEngineer()
+    me.say_hi()
 ```
 
 ## 🔧 Technologies & Tools
@@ -33,12 +36,11 @@ me.say_hi()
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 
-
 **Tools and Services:**
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 ![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
-![Ignition](https://img.shields.io/badge/Platform-Ignition-informational?style=flat&color=1A1A1A)
+![Ignition](https://img.shields.io/badge/Platform-Ignition-informational?style=flat&logo=ignition&color=1A1A1A)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 
 **Databases:**
@@ -47,11 +49,15 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=CC2927&color=CC2927)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaronrai24&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 👨‍💻 What Languages I currently Use:
-[![Aarons's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaronrai24&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://wakatime.com/@aaronrai24)
+## 👨‍💻 Current Stack:
 
+<p align="center">
+    <a href="https://wakatime.com/@aaronrai24">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aaronrai24&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Aarons's WakaTime stats">
+    </a>
+</p>
