@@ -52,5 +52,6 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaronrai24&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 👨‍💻 My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronrai24&layout=donut&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://wakatime.com/@aaronrai24)
+## 👨‍💻 What Languages I currently Use:
+[![Aarons's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaronrai24&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://wakatime.com/@aaronrai24)
+
