@@ -1,6 +1,7 @@
 # Yo 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaronrai24)
+[![wakatime](https://wakatime.com/badge/user/018d39fc-3bad-476a-b33e-d4dbbecd746e.svg)](https://wakatime.com/@018d39fc-3bad-476a-b33e-d4dbbecd746e)
 
 ```python
 #!/usr/bin/python
